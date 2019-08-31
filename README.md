@@ -1,2 +1,3 @@
-# kira-s-website
-my website
+# Kira's Website
+Tools:
+Boostrap, Javascript, Html, CSS
